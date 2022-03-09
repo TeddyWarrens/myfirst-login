@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    
+}
+.container{
+    width: 100%;
+    height: 100%;
+   
+
+}
+.white{
+    width: 500px;
+    height: 400px;
+    background-color:hwb(35 60% 25% / 0.013);
+    
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+.blue{
+    width: 500px;
+    height: 400px;
+    background-color: rgb(132, 189, 236);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnWXjPnLxTVw5o7GdPUa2gMmhtfbxqKsFJg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-origin: content-box;
+    background-size: 100% 100%;  
+    
+}
+.blue, .white{
+    float: left;
+}.box1{
+    padding-left: 90px;
+    padding-right: 100p;
+    padding-top: 10px;
+   
+}
+p{
+     
+    font-style: oblique;
+}
+img{
+    padding-left: 90px;
+    padding-top: 50px;
+}
+.red{
+    color: black;
+   
+}
+#submit {
+    color: black;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(115, 130, 214);
+    border-radius: 1em;
+   
+    }
+    #submit:hover {
+    color: rebeccapurple;
+ }.box2{
+    padding-left: 90px;
+    padding-right: 100p;
+    padding-top: 100px;
+ }
+ #submit2{
+     width: 300px;
+     height: 30px;
+     background-color: rgba(169, 169, 169, 0.226);
+     border-radius: 1em;
+     color: black;
+    
+ }
+ #submit2:hover {
+    color: transparent;
+    color: black;
+ }
+ .email{
+     text-align: right;
+ }
+ input{
+     text-align: center;
+     color: black;
+     background-color: transparent;
+     border-radius: 1em;
+ }
+ #email{
+     color: black;
+     background-color: transparent;
+     text-align: center;
+     border-radius: 0.5em;
+
+ }
+ 
+
+ 
+ 

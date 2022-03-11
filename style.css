@@ -1,0 +1,64 @@
+body{
+    background-color: lightgrey;
+}
+div.container{
+
+    background-color: rgb(25, 25, 238);
+}
+h1{
+    color: blue;
+    text-align: left;
+    padding-top: 80px;
+    font-size: 50px;
+}
+p{
+    text-align: left;
+}
+.facebook, .form{
+    float: left;
+    width: 50%;
+    height: 300px;
+    padding-top: 50px;
+    margin-left: 20px;
+    
+}
+div.form{
+    background-color: white;
+    
+    width: 400px;
+    text-align: center;
+    margin-top: 50px;
+    
+    
+}
+form{
+    border-radius: 1em;
+}
+.btn1{
+    text-align: center;
+    width: 200px;
+    background-color: rgb(25, 25, 235);
+    border-radius: 0.5em;
+    height: 40px;
+}
+input{
+    width: 200px;
+    border-radius: 0.5em;
+    height: 40px;
+}
+p.forgot{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+button.newaccount{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(19, 236, 19);
+    border-radius: 0.5em;
+}
+p.page{
+    padding-left: 10px;
+    margin-left: 10px;
+}
+    
